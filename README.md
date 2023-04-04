@@ -1,1 +1,3 @@
-# nosql-challenge
+# NoSQL Challenge
+
+In this repo are two Jupyter Notebooks as well as a "Resources" folder that contains a JSON file with data on establishments that the UK Food Standards Agency evaluated. The goal of this challenge to was to use MongoDB, a NoSQL database, through PyMongo in order to perform queries that answer analysis questions included in the analysis notebook file. The setup notebook file aids in this process by cleaning and preparing the data in our database to be analyzed. This results serve to help journalists and food critics from the food magazine, *Eat,Safe,Love,* write articles by suggesting establishments based on several criteria. 
